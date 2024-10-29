@@ -20,4 +20,14 @@ img {
 li {
     font-size: 18px;
     color: #696969;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1, ul {
+    text-align: center;
+    padding: 0;
 }
